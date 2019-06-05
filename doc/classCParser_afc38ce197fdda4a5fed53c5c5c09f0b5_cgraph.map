@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classCWindowMain.html#aaf9a9462b03198464a642b5415fd6ee0" title="Clears vector of references on position x,y." alt="" coords="203,5,405,35"/>
+<area shape="rect" id="node5" href="$classCWindowMain.html#a6d8eca2133aaa4a15d834240c57f5907" title="Push pair into a vector on coordinates x, y." alt="" coords="203,59,405,88"/>
+<area shape="rect" id="node7" href="$classCWindowMain.html#afd402d69e6e8552321a6daeac080ae48" title="Return m_val variable on position x y in m_2dArray." alt="" coords="228,112,380,141"/>
+<area shape="rect" id="node9" href="$classCCell.html#af1e9f5be8fcf9719caa545202ca67338" title="CCell::getVal" alt="" coords="455,112,553,141"/>
+</map>

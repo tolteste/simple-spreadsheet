@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classCCell.html" title="Represents one cell in sheet." alt="" coords="5,278,115,623"/>
+<area shape="rect" id="node5" href="$classCError.html" title="Represents window with errors when exception is thrown." alt="" coords="139,382,219,519"/>
+<area shape="rect" id="node7" href="$classCPosition.html" title="Represents window where current position is shown." alt="" coords="243,373,373,528"/>
+<area shape="rect" id="node9" href="$classCWindowHelp.html" title="Represents help window." alt="" coords="397,391,523,511"/>
+<area shape="rect" id="node11" href="$classCWindowMain.html" title="Represents sheet window." alt="" coords="547,295,680,606"/>
+<area shape="rect" id="node13" href="$classCWindowSide.html" title="Represents sidebar." alt="" coords="704,391,829,511"/>
+<area shape="rect" id="node15" href="$classCWindowTop.html" title="Represents topbar." alt="" coords="853,391,973,511"/>
+<area shape="rect" id="node17" href="$classCWindowTop2.html" title="Represents position (letters) window." alt="" coords="997,391,1125,511"/>
+</map>

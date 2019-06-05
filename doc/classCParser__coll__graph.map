@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classCWindowMain.html" title="Represents sheet window." alt="" coords="11,694,144,1005"/>
+<area shape="rect" id="node4" href="$classCWindow.html" title="Abstract class for WINDOWS." alt="" coords="33,5,140,229"/>
+<area shape="rect" id="node6" href="$classCCell.html" title="Represents one cell in sheet." alt="" coords="93,281,203,626"/>
+</map>
